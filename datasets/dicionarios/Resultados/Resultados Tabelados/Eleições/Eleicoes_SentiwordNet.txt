@@ -1,0 +1,41 @@
+--- Resultados Gerais --- 
+Acurácia: 48.8201
+
+--- Classe Positiva --- 
+Precisão: 36.8421
+Recall: 7.63636
+Micro-F1: 12.6506
+
+--- Classe Negativa --- 
+Precisão: 42.1875
+Recall: 12.9187
+Micro-F1: 19.7802
+
+--- Classe Neutra --- 
+Precisão: 50.1281
+Recall: 88.537
+Micro-F1: 64.0131
+
+
+Macro-F1: 32.148
+
+--- Matriz de Confusão ---
+	p	n	e
+p	21	24	230
+n	10	54	354
+e	26	50	587
+
+--- Resultado Agregado ---
+AgPositivo: 4.9569
+AgNegativo: 11.6791
+AgNeutro: 83.364
+
+--- Resultado Agregando Individualmente ---
+AiPositivo: 4.20354
+AiNegativo: 9.43953
+AiNeutro: 86.3569
+
+--- Distribuição Real ---
+RPositivos: 20.3252
+RNegativos: 30.8943
+RNeutros: 48.7805
